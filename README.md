@@ -20,3 +20,13 @@ The extension verifies every file's SHA-256 hash before using it.
 | fr-en | 2.0 |
 | en-es | 2.1 |
 | es-en | 2.0 |
+| en-pt | 2.1 |
+| pt-en | 2.0 |
+| en-ru | 2.0 |
+| ru-en | 2.1 |
+| en-ja | 2.3 |
+| ja-en | 2.0 |
+| en-it | 2.1 |
+| it-en | 2.0 |
+| en-id | 1.0 |
+| id-en | 1.0 |
