@@ -30,3 +30,5 @@ The extension verifies every file's SHA-256 hash before using it.
 | it-en | 2.0 |
 | en-id | 1.0 |
 | id-en | 1.0 |
+| en-ko | 2.0 |
+| ko-en | 2.0 |
